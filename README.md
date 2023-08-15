@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on spreadsheet
-- 🌱 I’m currently learning software achitecture and OT/CRDT.
-- 📫 Mail to: wendellhu95@gmail.com
-- 🐦 Twitter: [hullis_](https://twitter/hullis_)
+- 🔭 I’m currently working on web based editors. Focusing on architecture and rendering engine
+- 📫 Mail to: wzhudev@outlook.com
+- 🐦 Twitter: [wzhudev](https://twitter/wzhudev)
