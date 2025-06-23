@@ -7,7 +7,7 @@ I am Evan Hu, a software engineer focusing on editors, sync engines and AI appli
 - Led Univer, an open-source office suite framework, to 9k+ GitHub stars and adoption by 10+ enterprise clients, including 2 Fortune 500 companies and several well-known companies in China.
 - Before that, I contributed to collaborative spreadsheets and documents at ByteDance and Tencent.
 
-Open to new opportunities and challenges, including those out of China or globally remote. 
+Open to new opportunities and challenges, including those out of China or globally remote. Check out my [resume](https://github.com/wzhudev/resume).
 
 [Email me](mailto:wzhudev@gmail.com) or connect with me on [X](https://x.com/wzhudev) or [LinkedIn](https://www.linkedin.com/in/hu-wenzhao-8919a7290/).
 
