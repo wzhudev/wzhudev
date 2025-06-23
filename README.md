@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I am Evan Hu (胡文召), a software engineer focusing on editors, sync engines and AI applications. 
+I am Evan Hu, a software engineer focusing on editors, sync engines and AI applications. 
 
 - I am a seasoned software engineer and architect with a proven track record in designing and leading collaborative tools, including real-time editors and office suites. 
 - Specializing in real-time collaboration algorithms (OT, CRDTs), rendering, performance optimization, and scalable architecture. 
@@ -9,7 +9,7 @@ I am Evan Hu (胡文召), a software engineer focusing on editors, sync engines 
 
 Open to new opportunities and challenges, including those out of China or globally remote. 
 
-Email me or connect with me on [X](https://x.com/wzhudev) or [LinkedIn](https://www.linkedin.com/in/hu-wenzhao-8919a7290/).
+[Email me](mailto:wzhudev@gmail.com) or connect with me on [X](https://x.com/wzhudev) or [LinkedIn](https://www.linkedin.com/in/hu-wenzhao-8919a7290/).
 
 ## Features
 
