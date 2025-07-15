@@ -16,3 +16,5 @@ Open to new opportunities and challenges, including those out of China or global
 - [Reverse Linear's Sync Engine](https://github.com/wzhudev/reverse-linear-sync-engine): a detailed study on Linear's sync engine. The documentation is (according to its CTO) correct and more complete than what Linear publishes internally.
 - [Univer](https://github.com/dream-num/univer): A web-based spreadsheet framework, similar to Google Sheets, with a focus on extensibility and performance.
 - [redi](https://github.com/wzhudev/redi): A lightweight dependency injection framework for TypeScript. Used in [Univer](https://github.com/dream-num/univer) and ByteDance.
+
+<a href="https://trendshift.io/developers/5302" target="_blank"><img src="https://trendshift.io/api/badge/developers/5302" alt="wzhudev | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
