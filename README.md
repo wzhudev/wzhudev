@@ -7,7 +7,6 @@ My areas of interest include collaborative algorithms, distributed systems, edit
 ## Experience
 
 - Senior Software Engineer on _DGX Cloud Lepton_ team at _NVIDIA_, 2025 - now
-- Senior Software Engineer on _Doubao_ team at _ByteDance_, 2025
 - Tech Lead and Architect on _Univer_ team at _DreamNum_, 2023 - 2025
 - Software Engineer on _Lark Sheet_ team at _ByteDance_, 2021 - 2023
 - Software Engineer on _WeCom Document_ team at _Tencent_, 2020 - 2021
